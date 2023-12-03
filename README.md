@@ -98,7 +98,7 @@ module.exports = {
 {
   "name": "music-bot-v2",
   "main": "main.js",
-  "author": "Umut Bayraktar",
+  "author": "Umut Bayraktar x MCPE TH",
   "description": "Discord.js V13 Compatible Umut Bayraktar Youtube Private Music Bot Codes for Shared on GitHub! and modifed by MCPE TH",
   "scripts": {
     "start": "node main.js"
